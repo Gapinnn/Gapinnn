@@ -11,11 +11,15 @@
 
 <detail>
   <summary>:zap: Github Stats </summary>
-
-    <img align="left" alt="codeStack" src="https://github-readme-stats-gavin-atha-wisesas-projects.vercel.app/api?username=Gapinnn&show_icons=true&hide_border=true" />
+  ![](https://github-readme-stats-gavin-atha-wisesas-projects.vercel.app/api?username=Gapinnn&show_icons=true&hide_border=true)
 </detail>
 
-![](https://github-readme-stats-gavin-atha-wisesas-projects.vercel.app/api?username=Gapinnn&show_icons=true&hide_border=true)
+<detail>
+  <summary>:zap: Fav Languange </summary>
+  ![](https://github-readme-stats-gavin-atha-wisesas-projects.vercel.app/api/top-langs/?username=Gapinnn&show_icons=true&hide_border=true)
+</detail>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Gapinnn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gapinnn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gapinnn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
